@@ -103,9 +103,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ![Alt text](img/KCL.jpeg?raw=true "model")
 
-![Alt text](img/DEI.jpeg?raw=true "model")
+![Alt text](img/DEI.jpg?raw=true "model")
 
-![Alt text](img/WMG.jpeg?raw=true "model")
+![Alt text](img/WMG.jpg?raw=true "model")
 
      
 
