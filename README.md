@@ -60,16 +60,11 @@ Suggested GPU hardware is GeForce RTX 2080 Ti.
 To use code inference:
 
 
-
 ```bash
 CUDA_VISIBLE_DEVICES=0 python inference.py
 ```
 
-
-
-
-
-#Citing Data sets and Code
+# Citing Data sets and Code
 
 Sharing data and code is crucial for reproducibility and scientific progress, and should be rewarded. If you are reusing any of the shared data sets, flows or runs/studies, please honor their respective licences and citation requests.
 
