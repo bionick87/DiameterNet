@@ -1,6 +1,7 @@
 ########################################################
 ## Nicolo Savioli, PhD student King's Collage London  ##
 ########################################################
+
 import argparse
 import os
 from train import Train
@@ -25,7 +26,7 @@ opt = parser.parse_args()
 
 print("\n\n\n")
 print(" ===========================")
-print(" === ThicknessNet v 1.1 === ")
+print(" === DiameterNet v 1.1  === ")
 print(" ===========================")
 print("\n")
 print("\n ==> Options: \n")
