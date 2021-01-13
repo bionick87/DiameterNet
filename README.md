@@ -60,7 +60,7 @@ To use code inference:
 CUDA_VISIBLE_DEVICES=0 python inference.py
 ```
 
-# Citing Data sets and Code
+# Citations
 
 Sharing data and code is crucial for reproducibility and scientific progress, and should be rewarded. If you are reusing any of the shared data sets, flows or runs/studies, please honor their respective licences and citation requests.
 
