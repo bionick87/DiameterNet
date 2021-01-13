@@ -62,8 +62,6 @@ CUDA_VISIBLE_DEVICES=0 python inference.py
 
 # Citations
 
-Sharing data and code is crucial for reproducibility and scientific progress, and should be rewarded. If you are reusing any of the shared data sets, flows or runs/studies, please honor their respective licences and citation requests.
-
 If you have used the DiameterNet code, please also cite:
 
 Savioli, N., Grisan, E., Visentin, S. et al. Real-time diameter of the fetal aorta from ultrasound. Neural Comput & Applic 32, 6735–6744 (2020). https://doi.org/10.1007/s00521-019-04646-3
