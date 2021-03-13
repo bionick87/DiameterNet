@@ -60,6 +60,12 @@ To use code inference:
 CUDA_VISIBLE_DEVICES=0 python inference.py
 ```
 
+# Dataset 
+
+
+The dataset can be found at the following link https://doi.org/10.6084/m9.figshare.11368019
+
+
 # Citations
 
 If you have used the DiameterNet code, please also cite:
